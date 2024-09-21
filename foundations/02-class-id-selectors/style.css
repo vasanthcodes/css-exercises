@@ -1,0 +1,18 @@
+.p1 {
+  background-color: rgb(245, 126, 161);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#smthg {
+  color: blue;
+  font-size: 32px;
+}
+.font-size {
+  font-size: 24px;
+}
+
+#ui {
+  background-color: rgb(87, 233, 87);
+  font-size: 24px;
+  font-weight: bold;
+}
