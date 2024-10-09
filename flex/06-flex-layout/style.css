@@ -52,9 +52,6 @@ ul{
   display:flex;
   padding: 0px 20px;
   }
-  li{
-    font-color:rgba(0,99,99,2);
-  }
 
 a{
   text-decoration:none;
