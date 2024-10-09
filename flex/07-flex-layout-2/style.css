@@ -56,9 +56,7 @@ a{
   font-size:32px
 }
 .cards{
-  flex:2 1 0;
   display:flex;
-  justify-items;
   padding:40px;
   flex-wrap:wrap;
 }
