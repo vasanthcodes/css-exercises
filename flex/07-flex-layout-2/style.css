@@ -16,15 +16,13 @@ body {
 }
 
 .footer {
-  height: auto;
+  height: 72px;
   background: #eee;
   color: darkmagenta;
   align-items:flex-end;
-  flex:50px 0 0;
-  align-text:center;
   display:flex;
   justify-content:center;
-  align-items:center
+  align-items:center;
 }
 
 .sidebar {
@@ -67,5 +65,4 @@ a{
 .card{
 margin:40px;
 width:400px;
-padding:18px;
 }
